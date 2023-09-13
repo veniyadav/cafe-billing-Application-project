@@ -26,6 +26,12 @@ public class Homepage extends javax.swing.JFrame {
             btnViewEditDeleteProduct.setVisible(false);
             btnVerifyUsers.setVisible(false);
         }
+        else{
+            btnCategory.setVisible(false);
+            btnNewProduct.setVisible(false);
+            btnViewEditDeleteProduct.setVisible(false);
+            btnVerifyUsers.setVisible(false);
+        }
     }
 
     /**
